@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Damian Zsiros Dev Excercise"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Github Pages Damian Zsiros Dev Excercise"
